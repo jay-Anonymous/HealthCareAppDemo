@@ -26,4 +26,8 @@ $ bench --site demo.com install-app healthcare
 ```
 
 ## Documentation 
+
+Find attached  Healthcare App Database Schema Diagram,Healthcare App Sequence Diagram.API documentation
+
+
 https://drive.google.com/drive/folders/13b7F8Yx49oP6CdFZUFsXdsfAcuHoRY4I
