@@ -1,25 +1,3 @@
-<div align="center">
-<a href="https://frappehealth.com">
-    <img src="https://raw.githubusercontent.com/frappe/healthcare/develop/healthcare/public/images/healthcare.svg" height="128" alt="Marley Health Logo">
-  </a>
-  <h2>Marley Health</h2>
-  <p align="center">
-    <p>Open source & easy-to-use hospital information system(HIS) for all healthcare organisations.</p>
-  </p>
-
-  [Marley Health](https://marleyhealth.io)
-
- <div align="center" style="max-height: 40px;">
-    <a href="https://frappecloud.com/marley/signup">
-        <img src=".github/try-on-f-cloud-button.svg" height="40">
-    </a>
- </div>
-
-</div>
-
-### Introduction
-
-Marley Health enables the health domain in ERPNext and has various features that will help healthcare practitioners, clinics and hospitals to leverage the power of Frappe and ERPNext. It is built on Frappe, a full-stack, meta-data driven, web framework, and integrates seamlessly with ERPNext, the most agile ERP software. Marley Health helps to manage healthcare workflows efficiently and most of the design is based on HL7 FHIR (Fast Health Interoperability Resources).
 
 
 ### Key Features
@@ -48,16 +26,3 @@ $ bench --site demo.com install-app healthcare
 ```
 
 
-### Documentation
-
-Complete documentation for Marley Health is available at https://marleyhealth.io/docs
-
-
-### License
-
-GNU GPL V3. See [license.txt](https://github.com/earthians/marley/blob/develop/license.txt) for more information.
-
-
-### Credits
-
-Marley Health module is developed & maintained by [earthians](https://earthianslive.com) and community contributors.
